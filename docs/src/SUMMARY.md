@@ -13,7 +13,7 @@
   - [GitHub Actions 常见问题与解决方案](ch2-03.md)
 - [第三章：习题简介](ch3-00.md)
   - [提交全过程概述](ch3-01.md)
-  - [C++: 0 到 15](ch3-02-pre.md)
+  - [C++: 0 到 15](ch3-02.md)
   - [C++: 16 到 29](ch3-03-pre.md)
 - [Q & A](problem.md)
 - [附录 A：可供参考的资料](appendix-A.md)
